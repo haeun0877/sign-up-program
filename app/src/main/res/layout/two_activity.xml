@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="사용자 계정 생성"
+        android:textColor="#1F2857"
+        android:textSize="30sp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginBottom="80dp"
+        android:layout_marginTop="20dp"/>
+
+    <ImageView
+        android:id="@+id/picture"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        app:srcCompat="@drawable/gallery"
+        android:layout_marginLeft="160dp"
+        android:layout_marginBottom="50dp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/idedit"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="45dp"
+            android:drawableLeft="@drawable/image"
+            android:hint="ID" />
+
+        <Button
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="#1C2553"
+            android:onClick="mOnClick"
+            android:text="CHECK"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/passedit"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:layout_marginBottom="25dp"
+        android:drawableLeft="@drawable/passwordimage"
+        android:hint="암호" />
+
+    <EditText
+        android:id="@+id/nameedit"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:layout_marginBottom="25dp"
+        android:drawableLeft="@drawable/nameimage"
+        android:hint="이름" />
+
+    <Spinner
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:id="@+id/spinner"
+        android:text="학과 선택"
+        android:textSize="30sp"
+        android:layout_marginBottom="25dp"
+        android:entries="@array/전공"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:background="#212B61"
+        android:onClick="goOnClick"
+        android:text="가입"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

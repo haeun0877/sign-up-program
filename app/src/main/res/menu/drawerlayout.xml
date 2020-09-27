@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <grout android:checkableBehavior="single">
+        <item
+            android:id="@+id/write"
+            android:title="메시지 작성"
+            android:icon="@drawable/pencil"/>
+        <item
+            android:id="@+id/receive"
+            android:title="받은 메시지 함"
+            android:icon="@drawable/mail"/>
+    </grout>
+    <item
+        android:id="@+id/setting"
+        android:title="개인 정보 설정"
+        android:icon="@drawable/setting"/>
+    <item
+        android:id="@+id/logout"
+        android:title="로그아웃"
+        android:icon="@drawable/logout"/>
+</menu>
