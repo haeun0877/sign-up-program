@@ -10,4 +10,5 @@
 * 데이터 저장시 PHP와 MySQL서버를 이용하여 원격 서버에 저장함
 * 안드로이드스튜디오, JAVA 사용
 
+![1](https://user-images.githubusercontent.com/70643208/94363983-11ca5580-0101-11eb-8034-f5517c6efc4c.PNG)
 
