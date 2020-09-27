@@ -40,4 +40,5 @@
 ![7](https://user-images.githubusercontent.com/70643208/94364052-8dc49d80-0101-11eb-917a-b666200d3ca0.PNG)
 
 **7. 개인정보 수정 화면**
+
 ![9](https://user-images.githubusercontent.com/70643208/94364076-bb114b80-0101-11eb-8c63-24547de25168.PNG)
