@@ -19,14 +19,16 @@
 
 ![2](https://user-images.githubusercontent.com/70643208/94363994-2eff2400-0101-11eb-8746-77b16e044a02.PNG)
 
-**3. 메뉴 네비게이션 **
+**3. 메뉴 네비게이션**
 
 ![5](https://user-images.githubusercontent.com/70643208/94364008-4dfdb600-0101-11eb-89a1-4c1f4121e35c.PNG)
 
 **4. 보낸 메시지함 화면 (받은 메시지함 동일)**
 
 ![6](https://user-images.githubusercontent.com/70643208/94364016-6241b300-0101-11eb-9624-36974af9cb00.PNG)
+
 * 받는이 클릭시 화면
+
 ![10](https://user-images.githubusercontent.com/70643208/94364067-ab920280-0101-11eb-93f9-d2927a28cfda.PNG)
 
 **5. 메시지 작성 화면**
